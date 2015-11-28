@@ -161,3 +161,12 @@ body {
     width: 800px;
   }
 }
+
+h2{
+  margin-bottom: 50px;
+}
+p { margin:0 }
+
+img{
+  height: 60px;
+}
